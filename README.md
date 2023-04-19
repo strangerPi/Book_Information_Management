@@ -1,0 +1,2 @@
+# Book_Information_Management
+基于python+pyqt5+sqlite3的一款图书信息管理软件
