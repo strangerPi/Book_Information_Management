@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/去重.svg</file>
+    <file>icon/减号白1.svg</file>
+    <file>icon/减号白.svg</file>
+    <file>icon/关闭白.svg</file>
+    <file>icon/book.svg</file>
+    <file>icon/查询.svg</file>
+    <file>icon/登录.svg</file>
+    <file>icon/更新.svg</file>
+    <file>icon/关闭.svg</file>
+    <file>icon/排序.svg</file>
+    <file>icon/删除.svg</file>
+    <file>icon/添加.svg</file>
+    <file>icon/退出.svg</file>
+    <file>icon/显示.svg</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>image/1.PNG</file>
+    <file>image/图书馆.jpg</file>
+  </qresource>
+</RCC>
